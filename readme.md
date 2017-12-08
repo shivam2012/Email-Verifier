@@ -1,6 +1,6 @@
 # Email-Verifier
 ## Description
-The description will go here.
+ In this project we can verify single email-id as well as bulk of email ids in a single go. The file containing bulk email ids should be either a text file or a csv file. Its an API so people can also use this service
 
 ## Dependencies
 + Front-end
