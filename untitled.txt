@@ -1,0 +1,6 @@
+get documentation: redirecting prob
+see all frequently ask question: CSS prob, redirecting to home page again
+footer: links aren't present
+validation is missing on sign up form
+terms of service: missing
+forget password: missing
